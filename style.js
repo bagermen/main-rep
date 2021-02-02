@@ -1,3 +1,4 @@
+// style object
+const style = document.querySelector(':root').style;
 // paint background
-const style = document.querySelector('body').style;
 style.backgroundColor = 'yellow';
