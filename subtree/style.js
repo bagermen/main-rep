@@ -1,2 +1,3 @@
 // paint background
-document.querySelector('body').style.backgroundColor = 'yellow';
+const style = document.querySelector('body').style;
+style.backgroundColor = 'yellow';
